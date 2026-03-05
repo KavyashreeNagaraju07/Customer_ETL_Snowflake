@@ -1,0 +1,11 @@
+﻿CUSTOMER_ID,AGE,GENDER,COUNTRY,ANNUAL_INCOME,SPENDING_SCORE,NUM_PURCHASES,AVG_PURCHASE_VALUE,MEMBERSHIP_YEARS,WEBSITE_VISITS_PER_MONTH,CART_ABANDON_RATE,CHURNED,FEEDBACK_TEXT,LAST_PURCHASE_DATE
+1,37,Male,Germany,85886,14,18,41.2,6,20,0.95,0,Very satisfied with my purchase.,6/22/2025
+2,40,Male,India,41041,4,10,31.73,4,29,0.21,0,Good quality and value for money.,10/17/2025
+3,69,Female,Australia,143869,59,39,65.96,12,26,0.08,0,Excellent customer service.,7/1/2025
+4,30,Male,UK,87261,45,34,51.87,12,7,0.61,0,Good quality and value for money.,8/17/2025
+5,69,Female,UK,110678,40,38,59.64,13,16,0.49,0,Excellent customer service.,6/21/2025
+6,28,Male,Australia,90330,2,7,35.63,1,19,0.81,1,The product did not match the description.,10/25/2024
+7,40,Male,India,27302,51,29,38.99,10,16,0.8,0,Love the products and fast shipping.,7/6/2025
+8,21,Male,Brazil,39171,83,15,48.84,3,18,0.91,0,The website is easy to use.,5/29/2025
+9,47,Male,India,54766,27,23,35.37,8,13,0.63,0,Excellent customer service.,10/15/2025
+10,42,Female,India,47550,46,32,47.16,12,7,0.41,0,Excellent customer service.,9/7/2025
